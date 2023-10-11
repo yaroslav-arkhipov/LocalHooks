@@ -1,3 +1,4 @@
+//The library was developed by Y. K. Arkhipov.
 unit HookProcesses;
 
 interface
